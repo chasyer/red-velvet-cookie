@@ -49,8 +49,7 @@ nav a:hover{ /*/ MUDAR A COR QUANDO PASSA O MOUSE SOBRE O ELEMNTO */
 
 	}
 	#banner{
-		width: 30px;
-		height: 30px;
+		width: 30%;
 	}
 	.produtos li:hover{
 		border-color: #00BFFF;
